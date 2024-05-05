@@ -1,0 +1,40 @@
+{ "start": "Center room",
+  "rooms": [
+            {"name": "Center room", "desc": "You are in the center of the World!!",
+             "exits": { "up": "Top room", "down": "Bottom room", "left": "Left room", "right": "Right room", "upper-left": "Upper left room", "upper-right": "Upper right room", "bottom-left": "Bottom left room", "bottom-right": "Bottom right room" },
+             "items": ["center card"]
+            },
+            {"name": "Top room", "desc": "Now you get to the top of the World!!",
+             "exits": { "down": "Center room", "left": "Upper left room", "right": "Upper right room", "bottom-left": "Left room", "bottom-right": "Right room" },
+             "items": ["top card"]
+            },
+            {"name": "Bottom room", "desc": "This is the lower town, enjoy!",
+             "exits": { "up": "Center room", "left": "Bottom left room", "right": "Bottom right room", "upper-left": "Left room", "upper-right": "Right room" },
+             "items": ["bottom card"]
+            },
+            {"name": "Left room", "desc": "Left room is for leftist. Happy May Day!",
+             "exits": { "up": "Upper left room", "down": "Bottom left room", "right": "Center room", "upper-right": "Top room", "bottom-right": "Bottom room" },
+             "items": ["left card"]
+            },
+            {"name": "Right room", "desc": "Right room is for rightist. Happy National Day!",
+             "exits": { "up": "Upper right room", "down": "Bottom right room", "left": "Center room", "upper-left": "Top room", "bottom-left": "Bottom room" },
+             "items": ["right card"]
+            },
+            {"name": "Upper left room", "desc": "You are at the upper left corner at the map.",
+             "exits": { "right": "Top room", "down": "Left room", "bottom-right": "Center room"},
+             "items": ["upper left card"]
+            },
+            {"name": "Upper right room", "desc": "You are at the upper right corner at the map.",
+             "exits": { "left": "Top room", "down": "Right room", "bottom-left": "Center room"},
+             "items": ["upper right card"]
+            },
+            {"name": "Bottom left room", "desc": "You are at the bottom left corner at the map.",
+             "exits": { "up": "Left room", "right": "Bottom room", "upper-right": "Center room"},
+             "items": ["bottom left card"]
+            },
+            {"name": "Bottom right room", "desc": "You are at the bottom right corner at the map.",
+             "exits": { "up": "Right room", "left": "Bottom room", "upper-left": "Center room"},
+             "items": ["bottom right card"]
+            }
+           ]
+}

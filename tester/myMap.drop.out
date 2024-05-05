@@ -1,0 +1,159 @@
+> Center room
+
+You are in the center of the World!!
+
+Items: center card
+
+Exits: up down left right upper-left upper-right bottom-left bottom-right
+
+What would you like to do? You pick up the center card.
+What would you like to do? Did you want to go up, upper-left or upper-right?
+What would you like to do? You go up.
+
+> Top room
+
+Now you get to the top of the World!!
+
+Items: top card
+
+Exits: down left right bottom-left bottom-right
+
+What would you like to do? You pick up the top card.
+What would you like to do? You go bottom-left.
+
+> Left room
+
+Left room is for leftist. Happy May Day!
+
+Items: left card
+
+Exits: up down right upper-right bottom-right
+
+What would you like to do? Did you want to go or get
+What would you like to do? There's no c anywhere.
+What would you like to do? You pick up the left card.
+What would you like to do? Did you want to go up or upper-right?
+What would you like to do? You go up.
+
+> Upper left room
+
+You are at the upper left corner at the map.
+
+Items: upper left card
+
+Exits: right down bottom-right
+
+What would you like to do? You pick up the upper left card.
+What would you like to do? Inventory:
+  center card
+  top card
+  left card
+  upper left card
+What would you like to do? You go down.
+
+> Left room
+
+Left room is for leftist. Happy May Day!
+
+Exits: up down right upper-right bottom-right
+
+What would you like to do? You go down.
+
+> Bottom left room
+
+You are at the bottom left corner at the map.
+
+Items: bottom left card
+
+Exits: up right upper-right
+
+What would you like to do? You pick up the bottom left card.
+What would you like to do? You go right.
+
+> Bottom room
+
+This is the lower town, enjoy!
+
+Items: bottom card
+
+Exits: up left right upper-left upper-right
+
+What would you like to do? You pick up the bottom card.
+What would you like to do? You go right.
+
+> Bottom right room
+
+You are at the bottom right corner at the map.
+
+Items: bottom right card
+
+Exits: up left upper-left
+
+What would you like to do? You pick up the bottom right card.
+What would you like to do? Did you want to go up or upper-left?
+What would you like to do? You go up.
+
+> Right room
+
+Right room is for rightist. Happy National Day!
+
+Items: right card
+
+Exits: up down left upper-left bottom-left
+
+What would you like to do? You pick up the right card.
+What would you like to do? You go up.
+
+> Upper right room
+
+You are at the upper right corner at the map.
+
+Items: upper right card
+
+Exits: left down bottom-left
+
+What would you like to do? You pick up the upper right card.
+What would you like to do? Inventory:
+  center card
+  top card
+  left card
+  upper left card
+  bottom left card
+  bottom card
+  bottom right card
+  right card
+  upper right card
+What would you like to do? You go bottom-left.
+
+> Center room
+
+You are in the center of the World!!
+
+Exits: up down left right upper-left upper-right bottom-left bottom-right
+
+What would you like to do? You drop the center card.
+What would you like to do? Use 'quit' to exit.
+What would you like to do? You drop the top card.
+What would you like to do? You drop the left card.
+What would you like to do? You drop the right card.
+What would you like to do? Did you want to drop the bottom left card, bottom card or the bottom right card?
+What would you like to do? You drop the bottom card.
+What would you like to do? There's no bl in inventory.
+What would you like to do? Did you want to drop the bottom left card or the bottom right card?
+What would you like to do? You drop the bottom left card.
+What would you like to do? You drop the bottom right card.
+What would you like to do? Inventory:
+  upper left card
+  upper right card
+What would you like to do? You drop the upper left card.
+What would you like to do? You drop the upper right card.
+What would you like to do? You're not carrying anything.
+What would you like to do? > Center room
+
+You are in the center of the World!!
+
+Items: center card, top card, left card, right card, bottom card, bottom left card, bottom right card, upper left card, upper right card
+
+Exits: up down left right upper-left upper-right bottom-left bottom-right
+
+What would you like to do? Goodbye!

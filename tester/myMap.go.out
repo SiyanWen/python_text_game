@@ -1,0 +1,61 @@
+> Center room
+
+You are in the center of the World!!
+
+Items: center card
+
+Exits: up down left right upper-left upper-right bottom-left bottom-right
+
+What would you like to do? Did you want to go up, upper-left or upper-right?
+What would you like to do? You go up.
+
+> Top room
+
+Now you get to the top of the World!!
+
+Items: top card
+
+Exits: down left right bottom-left bottom-right
+
+What would you like to do? You go bottom-left.
+
+> Left room
+
+Left room is for leftist. Happy May Day!
+
+Items: left card
+
+Exits: up down right upper-right bottom-right
+
+What would you like to do? You go bottom-right.
+
+> Bottom room
+
+This is the lower town, enjoy!
+
+Items: bottom card
+
+Exits: up left right upper-left upper-right
+
+What would you like to do? Did you want to go upper-left or upper-right?
+What would you like to do? You go upper-right.
+
+> Right room
+
+Right room is for rightist. Happy National Day!
+
+Items: right card
+
+Exits: up down left upper-left bottom-left
+
+What would you like to do? You go upper-left.
+
+> Top room
+
+Now you get to the top of the World!!
+
+Items: top card
+
+Exits: down left right bottom-left bottom-right
+
+What would you like to do? Goodbye!

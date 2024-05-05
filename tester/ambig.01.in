@@ -1,0 +1,9 @@
+go northwest
+get bellows
+inventory
+go east
+inventory
+look
+go west
+inventory
+quit

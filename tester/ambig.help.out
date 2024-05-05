@@ -1,0 +1,48 @@
+> A white room
+
+You are in a simple room with white walls.
+
+Exits: north northwest
+
+What would you like to do? Did you want to go north or northwest?
+What would you like to do? You go northwest.
+
+> A green room
+
+You are in a simple room, with bright green walls.
+
+Items: banana, bandana, bellows, deck of cards
+
+Exits: east southeast
+
+What would you like to do? Did you want to go or get
+What would you like to do? There's no e anywhere.
+What would you like to do? Sorry, you need to 'get' something.
+What would you like to do? You pick up the banana.
+What would you like to do? You go east.
+
+> A blue room
+
+This room is simple, too, but with blue walls.
+
+Exits: west south
+
+What would you like to do? Sorry, you need to 'get' something.
+What would you like to do? There's no b anywhere.
+What would you like to do? You drop the banana.
+What would you like to do? You can run the following commands:
+  go ...
+  get ...
+  look
+  inventory
+  quit
+  help
+What would you like to do? You pick up the banana.
+What would you like to do? You can run the following commands:
+  go ...
+  drop ...
+  look
+  inventory
+  quit
+  help
+What would you like to do? Goodbye!
