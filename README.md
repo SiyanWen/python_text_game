@@ -2,7 +2,7 @@ Siyan Wen swen4@stevens.edu
 # estimate of time I costed
 two days
 # bugs and issues
-1. Because I cannot split command by one or more spacees, I failed to get the verbs and objects of input command at first place.
+1. Because I cannot split command by one or more spaces, I failed to get the verbs and objects of input command at first place.
 
 
 # resolved issue
@@ -13,17 +13,17 @@ I used subprocess package to compare if my stdout is consistent with my expectat
 
 # my extensions
 
-### 1. abbriviation for verbs, directions and items:
+### 1. abbreviation for verbs, directions and items:
 
-All verbs can be referred with the first letter except 'go' and 'get.
+All verbs can be referred with the first letter except 'go' and 'get'.
 
-You can use ```g n``` as long as there is no items in that room and there is just one of 'north','northeast', 'north west'. Because if there is anything in the room you can use both ```go``` and ```get```, then there would be a confusion. Same with the confusion between directions, items with same beginning letters.
+You can use ```g n``` as long as there is no items in that room and there is just one of 'north','northeast', 'northwest'. Because if there is anything in the room you can use both ```go``` and ```get```, then there would be a confusion. Same with the confusion between directions, items with same beginning letters.
 
 For this reason when there is both  ```go``` and ```get``` available, you must specify ```go``` or ```get```. 
-If there are both 'north' and 'northwest' you should use ```g north``` if you want to go north, ```g nw``` if you want to go northwest. If there are 'west' and 'northwest', you can use ```g w```, ```g n``` because they starts with different words.
+If there are both 'north' and 'northwest' you should use ```g north``` if you want to go north, ```g nw``` if you want to go northwest. If there are 'west' and 'northwest', you can use ```g w```, ```g n``` because they start with different words.
  
 for items, you can use first letter if it is unique. if it's not, you need to write until the first different letter or the end of the shorter word.
-For ```go``` verb only you can use any two word to refer to the direction tou want go, enen if the 2 (or more) letters are not consecutive. That means ```upper-right``` , ```northwest``` can be abbreviated to ```nw``` and ```uri```.
+For ```go``` verb only you can use any two word to refer to the direction, even if the 2 (or more) letters are not consecutive (as long as they are in right order). That means ```upper-right``` , ```northwest``` can be abbreviated to ```nw``` and ```uri```.
 ```angular2html
 > Center room
 
@@ -66,11 +66,11 @@ You can run the following commands:
   help
 What would you like to do?
 ```
-If there is ```drop``` and ```get``` is depends on if you have items in inventory and if there is any item in the room.
+Whether there is ```drop``` or ```get``` is depending on if you have items in inventory and if there is any item in the room.
 
 ### 3. A ```drop``` verb
 You can use ```drop``` verb to drop items.
-For verb drop and its objects abbriviation is also applicable.
+For verb drop and its objects abbreviation is also applicable.
 ```angular2html
 What would you like to do? i
 Inventory:
