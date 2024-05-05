@@ -23,7 +23,7 @@ For this reason when there is both  ```go``` and ```get``` available, you must s
 If there are both 'north' and 'northwest' you should use ```g north``` if you want to go north, ```g nw``` if you want to go northwest. If there are 'west' and 'northwest', you can use ```g w```, ```g n``` because they start with different words.
  
 for items, you can use first letter if it is unique. if it's not, you need to write until the first different letter or the end of the shorter word.
-For ```go``` verb only you can use any two word to refer to the direction, even if the 2 (or more) letters are not consecutive (as long as they are in right order). That means ```upper-right``` , ```northwest``` can be abbreviated to ```nw``` and ```uri```.
+For ```go``` verb only you can use any disconnected letters to refer to the direction, as long as they are in right order. That means  ```northwest```, ```upper-right``` can be abbreviated to ```nw``` and ```uri```.
 ```angular2html
 > Center room
 
