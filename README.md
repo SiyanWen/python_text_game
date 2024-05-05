@@ -65,4 +65,4 @@ If there is ```drop``` and ```get``` is depends on if you have items in inventor
 As shown before you can use ```drop``` verb to drop items.
 
 # GitHub repo
-https://github.com/resemble-Dunford/text_game.git
+https://github.com/resemble-Dunford/python_text_game.git
